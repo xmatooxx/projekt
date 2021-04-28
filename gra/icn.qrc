@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cel.png</file>
+        <file>background.jpg</file>
+        <file>tlo.jpeg</file>
+    </qresource>
+</RCC>
